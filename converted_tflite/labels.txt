@@ -1,0 +1,2 @@
+0 Izquierdo
+1 Derecho
